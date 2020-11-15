@@ -1,0 +1,53 @@
+.member-picture {
+    border-radius: 50%;
+    border: 2px solid rgb(220 156 118);
+    width: 70%;
+    margin-top: 10px;
+  }
+
+.div-for-member{
+    background-color: #433c49;
+    border: 1px dashed #433c49;
+    border-radius: 10px;
+    padding: 10px;
+    height: 18em;
+    position:relative;
+
+}
+.sticky-top {
+    background-color: #433c49 !important;
+}
+.btn-link{
+    color: white !important;
+}
+.btn-link:hover{
+    color: rgb(220 156 118) !important;
+}
+.text-names-team{
+    color: rgb(220 156 118);
+}
+.text-subtitle-team{
+    color:white;
+}
+
+.wrapper-member{
+    height: 19em;
+}
+.linkedin_icon{
+    border: 1px solid white;
+    border-radius: 3px;
+    position:absolute;
+    bottom:10px;
+    left: 44%
+}
+.text-home-title{
+    color:#433c49;
+}
+.text-home-subitle{
+    color:#433c49;
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+.font-home-m{
+    font-size: 14px;
+}
